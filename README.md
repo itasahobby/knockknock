@@ -1,4 +1,10 @@
-# Knocknock
+
+
+<p align="center">
+  <img width="200" height="200" src="https://github.com/itasahobby/knocknock/assets/47305925/905a7e87-4ee6-49c2-b4c9-ccc285217924">
+</p>
+
+#  Knocknock
 
 Knocknock is a simple program that prints the command line arguments and environment variables available to it. It can write its output to the standard output, a file, or a socket, depending on the selected output mode.
 
